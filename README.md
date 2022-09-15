@@ -4,9 +4,9 @@ Repository with data science projects
 ## HabrParser
 Parses information from https://habr.com and analyses it: calculates engagment rate, plots word clouds, makes correlation analysis, visualizes data.
 
-## StyleTransfer
-Transfers style from one image into another with pretrained model.
+## Recommendation System
+Offers musicians that are similar to user's favorites. 
 
-## Journet to Springfield
-Kaggle competition for educational purposes. I'm using ResNet34 for image classification of The Simpson's characters.  
+## Text Classification
+Classifies text on scientific and not scientific. 
 
